@@ -1,5 +1,8 @@
 ### Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+
+
 Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 
 
@@ -15,6 +18,7 @@ Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang98671)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some of my projects :alien:
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurang98671&repo=Whatsapp-Chatbot" />
 </a>
@@ -22,3 +26,19 @@ Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurang98671&repo=parking_app" />
 </a>
+
+## :wrench: Technologies and Tools
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+
+
+
+
+
+

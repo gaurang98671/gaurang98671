@@ -17,16 +17,6 @@ Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang98671)](https://github.com/anuraghazra/github-readme-stats)
 
-## Some of my projects :alien:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurang98671&repo=Whatsapp-Chatbot" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurang98671&repo=parking_app" />
-</a>
-
 ## :wrench: Technologies and Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
@@ -39,6 +29,15 @@ Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 
 
 
+## Some of my projects :alien:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurang98671&repo=Whatsapp-Chatbot" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurang98671&repo=parking_app" />
+</a>
 
 
 

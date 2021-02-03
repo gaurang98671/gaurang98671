@@ -7,7 +7,7 @@ Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 
 
 
-- 🌱 I’m currently learning Godot, Selenium, Golang and Dagger
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: pawargaurang1212@gmail.com 
 

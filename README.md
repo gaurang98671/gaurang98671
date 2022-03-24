@@ -1,5 +1,5 @@
 ### Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Alt Text](https://media.giphy.com/media/9HBduC3ZIgrG8/giphy.gif)
+![Alt Text](https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif)
 
 
 

@@ -18,16 +18,19 @@ Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang98671)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :wrench: Technologies and Tools
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-
-
+<p float="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" height="50">
+<img src="" width="50" height="50">
+<img src="" width="50" height="50">
+</p>
 ## Some of my projects :alien:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

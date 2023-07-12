@@ -7,8 +7,7 @@ Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
 
 
 
-- 🌱 I’m currently learning Elixir
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning LangChain
 - 📫 How to reach me: pawargaurang1212@gmail.com 
 
 

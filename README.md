@@ -3,7 +3,7 @@
 
 
 
-Hi, I'm Gaurang Pawar, a Flutter and python developer 🚀 from India
+Hi, I'm Gaurang Pawar, a DevOps engineer from India
 
 
 

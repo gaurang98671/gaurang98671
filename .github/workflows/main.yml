@@ -21,3 +21,11 @@ jobs:
       - name: Run Python script
         run: |
           python script.py
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md # Specify the file(s) you want to commit
+          git commit -m "Update README.md" # Add an appropriate commit message
+          git push origin main # Replace 'main' with your target branch (e.g., 'master')

@@ -1,0 +1,22 @@
+name: Test Workflow
+
+on:
+  schedule:
+    - cron: '* * * * *' # Runs every day at midnight UTC
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Choose your desired Python version
+
+      - name: Run Python script
+        run: |
+          python script.py

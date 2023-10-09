@@ -20,7 +20,7 @@ jobs:
           
       - name: Commit changes
         run: |
-          python script.py >> README.md
+          python script.py > README.md
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add README.md # Specify the file(s) you want to commit

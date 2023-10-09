@@ -17,13 +17,10 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x' 
-
-      - name: Run Python script
-        run: |
-          python script.py
           
       - name: Commit changes
         run: |
+          python script.py >> README.md
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add README.md # Specify the file(s) you want to commit

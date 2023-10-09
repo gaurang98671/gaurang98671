@@ -12,7 +12,7 @@ gifs = {
 day = datetime.date.today().strftime("%A")
 todays_gif = gifs[day[:3].lower()]
 
-f = open("README.md", "w")
-f.write(f"![Alt Text]({todays_gif})")
-f.close()
+
+print(f"![Alt Text]({todays_gif})")
+
 

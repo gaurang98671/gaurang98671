@@ -11,7 +11,7 @@ gifs = {
 
 day = datetime.date.today().strftime("%A")
 todays_gif = gifs[day[:3].lower()]
-
+print(f"Adding {todays_gif}")
 
 print(f"![]({todays_gif})")
 

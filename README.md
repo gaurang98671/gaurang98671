@@ -1,2 +1,1 @@
-Adding https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif
-![](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![](https://media.giphy.com/media/JZysnXgm2nRxMLm52q/giphy.gif)
